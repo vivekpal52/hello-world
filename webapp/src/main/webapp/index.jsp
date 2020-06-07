@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> Testing deploy using ansible</h2>
 <h2> Added ansible job to jenkins successfully</h2>
-<h2> Deploying on Kubernetes</h2>
+<h2> Deploying on Kubernetes with latest image</h2>
